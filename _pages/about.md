@@ -11,7 +11,5 @@ Guo is a PhD candidate in Industrial and Systems Engineering at Lehigh Universit
 - nonlinear optimization
 - machine learning
  
-Generally speaking, his research interests fall within the category of Applied Mathematics.
-
-Before joining Lehigh University, he received an M.Eng in IOE from the University of Michigan, Ann Arbor in 2023. He received a B.S. in Applied Mathematics from Fudan University, China.
+Generally speaking, his research interests fall within the category of Applied Mathematics. Before joining Lehigh University, he received an M.Eng in IOE from the University of Michigan, Ann Arbor in 2023. He received a B.S. in Applied Mathematics from Fudan University, China. Currently, he is actively seeking a career in academia!
 
