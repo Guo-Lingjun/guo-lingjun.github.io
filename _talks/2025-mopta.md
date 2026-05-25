@@ -1,9 +1,9 @@
 ---
 title: "Progressively Sampled Equality-Constrained Optimization"
 collection: talks
-type: "Talk"
+type: "Contributed Talk"
 permalink: /talks/2025-mopta
-venue: "Teatro Micaelense, Ponta Delgada, Azores, Portugal"
+venue: "Modeling and Optimization: Theory and Applications (MOPTA), Lehigh University"
 date: 2025-06-18
 location: "Ponta Delgada, Azores, Portugal"
 ---
