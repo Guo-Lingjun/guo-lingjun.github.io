@@ -1,17 +1,16 @@
 ---
 layout: archive
-title: "About"
+title: "About Guo"
 permalink: /
 author_profile: true
 ---
 
-Guo, Lingjun is a PhD candidate in Industrial and Systems Engineering at Lehigh University. 
-
-His Ph.D. thesis focuses on:
+Guo is a PhD candidate in Industrial and Systems Engineering at Lehigh University. He is a student member of the [OptML Lab](https://optml.lehigh.edu), working on the development of algorithms for nonlinear, nonconvex problems with stochastic constraints. His Ph.D. thesis has a cross-interest among the following areas:
 - constrained optimization
 - stochastic optimization
-- machine learning
 - nonlinear optimization
+- machine learning
+Generally speaking, his research interests fall within the category of Applied Mathematics.
 
-Before joining Lehigh University, he received an M.Eng in IOE from the University of Michigan, Ann Arbor. He received a B.S. in Applied Mathematics from Fudan University, China.
+Before joining Lehigh University, he received an M.Eng in IOE from the University of Michigan, Ann Arbor, in 2023. He received a B.S. in Applied Mathematics from Fudan University, China.
 
