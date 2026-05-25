@@ -1,7 +1,7 @@
 ---
 title: "Progressively Sampled Equality-Constrained Optimization"
 collection: talks
-type: "Conference proceedings talk"
+type: "Talk"
 permalink: /talks/2025-rutgers
 venue: "INFORMS student chapter at Rutgers University"
 date: 2025-11-11
