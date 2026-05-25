@@ -11,35 +11,33 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D Candidate in ISE, Lehigh University
+  * Dissertation committee: Frank Curtis, Daniel Robinson, Akwum Onwunta, [George Lan](https://sites.gatech.edu/guanghui-lan/)
+* M.Eng. in IOE, University of Michigan, Ann Arbor, 2023
+  * Advisor: [Salar Fattahi](https://fattahi.engin.umich.edu/) 
+* B.S. in Applied Mathematics, Fudan University, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Feb, 2022 -- Nov, 2022: Research Intern (Unpaid)
+  * University of Michigan, Ann Arbor
+  * Topic: 
+  * Supervisor: Jianhao Ma, Salar Fattahi
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2020 -- 2021: Research Intern (Unpaid)
+  * Fudan University
+  * Topic: 
+  * Supervisor: Rujun Jiang, Xudong Li
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Latex, MATLAB, Python, Mandarin (Sichuan dialect)
+* Cooking
+  * Braised Pork Ribs（红烧排骨）
+  * Sweet and Sour Pork Ribs（糖醋排骨）
+  * Braised Rice with Pork and Soy Sauce（卤肉饭）
+  * Making good Moka coffee
+  * still learning!
 
 Publications
 ======
@@ -59,6 +57,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Disclaimer
 ======
-* Currently signed in to 43 different slack teams
+
