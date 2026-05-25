@@ -3,7 +3,7 @@ title: "Behind the scenes of gradient descent: A trajectory analysis via basis f
 collection: publications
 category: conferences
 permalink: /publication/2022-behind-scen
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
+excerpt: 'Neural networks *monotonically* learn towards properly chosen basis functions!'
 venue: 'ICLR 2023'
 paperurl: 'https://guo-lingjun.github.io/files/2022-behind-scen.pdf'
 ---
