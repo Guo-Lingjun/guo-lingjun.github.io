@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-Guo is a PhD candidate in Industrial and Systems Engineering at Lehigh University. He is a student member of the [OptML Lab](https://optml.lehigh.edu), working on the development of algorithms for nonlinear, nonconvex problems with stochastic constraints. His Ph.D. thesis has a cross-interest among the following areas:
+Guo is a PhD candidate in Industrial and Systems Engineering at Lehigh University. He is a student member of the [OptML Lab](https://optml.lehigh.edu), advised by Prof. Frank Edward Curtis and Prof. Daniel P. Ronbinson. He works on the development of algorithms for nonlinear, nonconvex problems with stochastic constraints. His thesis has a cross-interest among the following areas:
 - constrained optimization
 - stochastic optimization
 - nonlinear optimization
