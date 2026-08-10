@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
-* Ph.D Candidate in ISE, Lehigh University
+* Ph.D Candidate in ISE, Lehigh University,
   * Dissertation committee: Frank Curtis, Daniel Robinson, Akwum Onwunta, [George Lan](https://sites.gatech.edu/guanghui-lan/)
 * M.Eng. in IOE, University of Michigan, Ann Arbor, 2023
   * Advisor: [Salar Fattahi](https://fattahi.engin.umich.edu/) 
 * B.S. in Applied Mathematics, Fudan University, 2020
-
+  
+<!-- 
 Work experience
 ======
 * Feb, 2022 -- Nov, 2022: Research Intern (Unpaid)
@@ -28,6 +29,7 @@ Work experience
   * Fudan University
   * Topic: 
   * Supervisor: Rujun Jiang, Xudong Li
+-->
 
 Skills
 ======
