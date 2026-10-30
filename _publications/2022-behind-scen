@@ -2,7 +2,6 @@
 title: "Behind the scenes of gradient descent: A trajectory analysis via basis function decomposition"
 collection: publications
 category: conferences
-permalink: /publication/2022-behind-scen
 excerpt: 'Neural networks *monotonically* learn towards properly chosen basis functions!'
 venue: 'ICLR 2023'
 date: 2022-04-10
